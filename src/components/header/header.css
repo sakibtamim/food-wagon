@@ -1,0 +1,54 @@
+#navMenu {
+  background-color: #fff;
+}
+#navMenu .delivery {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #424242;
+}
+#navMenu .location {
+  margin: 0 5px;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Open Sans", sans-serif;
+  color: #424242;
+}
+#navMenu .location svg {
+  font-size: 22px;
+  margin: -3px 4px 0 4px;
+  color: #ffb30e;
+}
+#navMenu .search input {
+  position: relative;
+  width: 130px;
+  padding-left: 30px;
+  font-size: 18px;
+  border: none;
+  box-shadow: none;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #424242;
+}
+#navMenu .search svg {
+  font-size: 22px;
+  color: #ffb30e;
+  position: absolute;
+  top: 50%;
+
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
+#navMenu .navbar-text {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #424242;
+}
+#navMenu .navbar-text .user {
+  color: #ffb30e;
+  margin-left: 5px;
+}

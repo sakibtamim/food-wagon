@@ -1,0 +1,22 @@
+#banner {
+  padding: 150px 0;
+  background: url(../../assets/banner_bg.png) no-repeat center / cover;
+}
+#banner .banHeader {
+  padding-bottom: 32px;
+}
+#banner .banHeader h1 {
+  font-size: 88px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  padding-bottom: 15px;
+  color: #fff;
+  margin-bottom: 0;
+}
+#banner .banHeader p {
+  font-size: 22px;
+  font-weight: normal;
+  font-family: "Source Sans 3", sans-serif;
+  color: #504f4f;
+  margin-bottom: 0;
+}
