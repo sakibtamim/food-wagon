@@ -1,0 +1,101 @@
+#popular {
+  padding: 80px 0;
+}
+#popular .head {
+  padding-bottom: 88px;
+}
+#popular .head h2 {
+  font-size: 43px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #212121;
+}
+#popular .body .carousel-control-next,
+.carousel-control-prev {
+  top: 50% !important;
+  transform: translateY(-50%);
+  height: 76px !important;
+  width: 76px !important;
+  border-radius: 50%;
+  background-color: #ffb20e !important;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
+#popular .body .carousel-control-next {
+  right: -130px;
+}
+#popular .carousel-control-prev {
+  left: -130px;
+}
+#popular .body .carousel-control-next-icon,
+.carousel-control-prev-icon {
+  height: 76px !important;
+  line-height: 76px !important;
+  color: white;
+}
+.carousel-indicators {
+  bottom: -50px !important;
+}
+.carousel-indicators [data-bs-target] {
+  height: 8px !important;
+  background-color: #f17228 !important;
+}
+#popular .body .items .card {
+  border: none;
+}
+#popular .body .items .card img {
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+}
+#popular .body .items .card .card-body {
+  padding-left: 0;
+  padding-right: 0;
+}
+#popular .body .items .card .card-body .itemName {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #424242;
+}
+#popular .body .items .card .card-body .location {
+  font-size: 24px;
+  font-weight: normal;
+  font-family: "Source Sans 3", sans-serif;
+  color: #ffb30e;
+  padding-bottom: 8px;
+  margin-bottom: 0;
+}
+#popular .body .items .card .card-body .location svg {
+  margin-top: -7px;
+  margin-right: 5px;
+}
+#popular .body .items .card .card-body .rate {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #212121;
+  padding-bottom: 16px;
+  margin-bottom: 0;
+}
+#popular .body .items .card .card-body button {
+  width: 100%;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: "Source Sans 3", sans-serif;
+  color: #fff;
+  padding: 21px 0;
+  background-color: #f17228;
+  border: none;
+
+  box-shadow: 0px 5px 10px rgba(250, 99, 35, 0.247);
+}
