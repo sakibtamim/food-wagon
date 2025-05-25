@@ -1,0 +1,76 @@
+#searchFood {
+  padding: 80px 0;
+  background-color: #fefaf1;
+}
+#searchFood .head {
+  padding-bottom: 88px;
+}
+#searchFood .head h2 {
+  font-size: 43px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #212121;
+}
+#searchFood .head a {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #ffb30e;
+}
+#searchFood .head svg {
+  margin-left: 6px;
+}
+#searchFood .foodbody .carousel-control-next {
+  top: -158px;
+  right: 0;
+  height: 76px;
+  width: 76px;
+  border-radius: 50%;
+  background-color: #ffb20e;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+#searchFood .foodbody .carousel-control-prev {
+  top: -120px !important;
+  left: 1100px;
+  height: 76px;
+  width: 76px;
+  border-radius: 50%;
+  background-color: #ffb20e;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+#searchFood .foodbody .carousel-control-next-icon,
+.carousel-control-prev-icon {
+  height: 76px;
+  line-height: 76px;
+  color: white;
+}
+
+#searchFood .foodbody .carousel-indicators [data-bs-target] {
+  display: none;
+}
+#searchFood .foodbody .card {
+  border: none;
+  background-color: transparent;
+}
+#searchFood .foodbody .card img {
+  width: 70%;
+}
+#searchFood .foodbody .card .card-body {
+  padding-top: 26px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#searchFood .foodbody .card .card-body .card-title {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #424242;
+}

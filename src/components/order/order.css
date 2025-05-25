@@ -1,0 +1,25 @@
+#order {
+  padding: 90px 0;
+  background: url(../../assets/orderBg.png) no-repeat center / cover;
+}
+#order .head h2 {
+  font-size: 57px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #fff;
+  padding-bottom: 62px;
+  margin-bottom: 0;
+}
+#order .head a {
+  padding: 21px 25px;
+  background: linear-gradient(90deg, #f17228, #f15e28);
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #fff;
+}

@@ -1,0 +1,52 @@
+#bestDeal {
+  padding: 135px 0;
+}
+#bestDeal .body {
+  box-shadow: 0 27px 82px rgba(124, 124, 124, 0.285);
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+}
+#bestDeal .body .bodyImg img {
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+#bestDeal .body .bodyImg1 img {
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+#bestDeal .body .bodyText {
+  padding: 0 56px;
+}
+#bestDeal .body .bodyText h3 {
+  font-size: 43px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #353535;
+  padding-bottom: 18px;
+  margin-bottom: 0;
+}
+#bestDeal .body .bodyText p {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+  color: rgba(53, 53, 53, 0.693);
+  padding-bottom: 80px;
+  margin-bottom: 0;
+}
+#bestDeal .body .bodyText .order a {
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #fff;
+  padding: 22px 0;
+  background: linear-gradient(90deg, #ffb800, #ff8a00);
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}

@@ -30,7 +30,7 @@
 #popular .body .carousel-control-next {
   right: -130px;
 }
-#popular .carousel-control-prev {
+#popular .body .carousel-control-prev {
   left: -130px;
 }
 #popular .body .carousel-control-next-icon,
@@ -39,10 +39,10 @@
   line-height: 76px !important;
   color: white;
 }
-.carousel-indicators {
+#popular .body .carousel-indicators {
   bottom: -50px !important;
 }
-.carousel-indicators [data-bs-target] {
+#popular .body .carousel-indicators [data-bs-target] {
   height: 8px !important;
   background-color: #f17228 !important;
 }

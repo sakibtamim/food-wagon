@@ -1,0 +1,73 @@
+#appInstall {
+  padding: 130px 0 208px 0;
+  background: url(../../assets/appInstallBG.png) no-repeat center / cover;
+}
+#appInstall .head {
+  padding: 55px;
+  background: #fff;
+  border-radius: 46px;
+  -webkit-border-radius: 46px;
+  -moz-border-radius: 46px;
+  -ms-border-radius: 46px;
+  -o-border-radius: 46px;
+  margin-bottom: 200px;
+}
+
+#appInstall .head .textsinfos p {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: transparent;
+  background: linear-gradient(90deg, #fb3c00, #ffb800);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0;
+}
+#appInstall .bottom h3 {
+  font-size: 62px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: transparent;
+  background: linear-gradient(45deg, #ffb800, #ff8a00);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-bottom: 16px;
+}
+#appInstall .bottom p {
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Source Sans 3", sans-serif;
+  margin-bottom: 0;
+  padding-bottom: 40px;
+}
+#appInstall .bottom .appstore .gplay,
+.applestore {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  cursor: pointer;
+}
+#appInstall .bottom .appstore .gplay h6,
+.applestore h6 {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #616161;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+#appInstall .bottom .appstore .gplay h5,
+.applestore h5 {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #212121;
+  margin-bottom: 0;
+}

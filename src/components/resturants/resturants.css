@@ -1,0 +1,66 @@
+#resturants {
+  padding: 80px 0;
+}
+#resturants .head {
+  padding-bottom: 88px;
+}
+#resturants .head h2 {
+  font-size: 43px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #212121;
+}
+#resturants .body .card {
+  border: none;
+}
+#resturants .body .card .card-body {
+  padding-left: 0;
+  padding-right: 0;
+}
+#resturants .body .card .card-body .restuName {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #424242;
+  margin-bottom: 0;
+}
+#resturants .body .card .card-body .restuRating {
+  font-size: 22px;
+  font-weight: normal;
+  font-family: "Source Sans 3", sans-serif;
+  color: #ffb30e;
+  margin-bottom: 0;
+}
+#resturants .body .card .card-body .restuRating svg {
+  margin-top: -8px;
+  margin-right: 8px;
+}
+#resturants .body .card .card-body .opentime {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+}
+#resturants .view a {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Sans 3", sans-serif;
+  color: #ffffff;
+  padding: 22px 48px;
+  border-radius: 14px;
+  background: linear-gradient(#ffba26, #ff9a0e);
+  box-shadow: 0 20px 40px rgba(255, 174, 0, 0.201);
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+}
+#resturants .view svg {
+  margin-left: 4px;
+}
